@@ -21,5 +21,6 @@ During this project, I learned and implemented the following technologies:
 ## Deployment
 After completing development, I successfully deployed the application. Below is a preview of the Home Page:
 
-![Home Page](<img width="1439" alt="Image" src="https://github.com/user-attachments/assets/2316955a-26a5-49b5-92f3-f901b85373a2" />)
+![Home Page](![image](https://github.com/user-attachments/assets/3fdc05b7-5af2-4f81-864b-1a689b31924f)
+)
 
